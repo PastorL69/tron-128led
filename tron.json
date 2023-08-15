@@ -12,7 +12,7 @@
   },
   "processor": {
       "serum": {
-          "comment": "File from https://vpuniverse.com/files/file/14216-tron-legacy-stern-2011-dmd-64-colors-serum-format-v22-final/", 
+          "comment": "Make sure to change the path name after /home/ to your username", 
           "file": "/home/jan/code_dmdreader/serumstuff2/trn_174h.cRZ"
       }
   },
