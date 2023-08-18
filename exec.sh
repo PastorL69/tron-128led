@@ -1,2 +1,3 @@
 #!/bin/sh
-sudo ./dmdreader serumstuff2/tron.json
+cd /home/jan/code/code_dmdreader/
+./dmdreader samples/display-spi.json
