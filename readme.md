@@ -1,4 +1,4 @@
-# serumstuff2
+# TRON-128LED
 This repository consists of a few files which I bundled together for αDMD installations. 
 
 Configured only for TRON 128x32 LED DMD users.
