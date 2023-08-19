@@ -1,2 +1,1 @@
-This repository consists of a few files which are necessary to successfully make use of the DMDReader software.
-
+This repository consists of a few files which I bundled together for future DMDReader installations. 
