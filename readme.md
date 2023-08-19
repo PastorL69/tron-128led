@@ -12,4 +12,4 @@ cd /code_dmdreader/
 git clone https://github.com/p69172002/serumstuff2
 ```
 
-To make use of the 
+## How do I make use of the repository?
