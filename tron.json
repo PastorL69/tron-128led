@@ -13,7 +13,7 @@
   "processor": {
       "serum": {
           "comment": "Make sure to change the path name after /home/ to your username", 
-          "file": "/home/jan/code_dmdreader/serumstuff2/trn_174h.cRZ"
+          "file": "/home/jan/code_dmdreader/tron-128led/trn_174h.cRZ"
       }
   },
   "renderer": {
