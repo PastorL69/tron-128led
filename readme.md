@@ -8,7 +8,7 @@ Configured only for TRON 128x32 LED DMD users.
 ```
 cd
 cd ~/code_dmdreader
-git clone https://github.com/p69172002/serumstuff2
+git clone https://github.com/p69172002/tron-128led
 ```
 ## Configuring the files
 After having cloned the repository, you must change the paths in `exec.sh` and `tron.json`
