@@ -17,5 +17,5 @@ After having cloned the repository, you must change the paths in `start.sh` and 
 ```
 cd
 cd ~/code_dmdreader/tron-128led
-sudo ./exec.sh
+sudo ./start.sh
 ```
