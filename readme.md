@@ -11,7 +11,7 @@ cd ~/code_dmdreader
 git clone https://github.com/p69172002/tron-128led
 ```
 ## Configuring the files
-After having cloned the repository, you must change the paths in `exec.sh` and `tron.json`
+After having cloned the repository, you must change the paths in `start.sh` and `tron.json`
 
 ## Running the script
 ```
