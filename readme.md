@@ -16,6 +16,6 @@ After having cloned the repository, you must change the paths in `exec.sh` and `
 ## Running the script
 ```
 cd
-cd ~/code_dmdreader/serumstuff2
+cd ~/code_dmdreader/tron-128led
 sudo ./exec.sh
 ```
