@@ -12,4 +12,5 @@ cd
 cd ~/code_dmdreader
 git clone https://github.com/p69172002/serumstuff2
 ```
-
+# Configuring the files
+After having cloned the repository, you must change the paths in `exec.sh` and `tron.json`
