@@ -9,7 +9,7 @@ Configured only for TRON 128x32 LED DMD users.
 
 ```
 cd
-cd /code_dmdreader/
+cd ~/code_dmdreader
 git clone https://github.com/p69172002/serumstuff2
 ```
 
