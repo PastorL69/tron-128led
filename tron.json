@@ -14,15 +14,13 @@
     "serum": {
       "comment": "Make sure to change the path name after /home/ to your username", 
       "file": "/home/jan/code_dmdreader/tron-128led/trn_174h.cRZ"
-    }
-    "palette": {
-      "colors": 64
-    }  
+    } 
   },
   "renderer": {
     "ledmatrix": {
       "width": 128,
-      "height": 32 
+      "height": 32,
+      "rgb_sequence": "gbr"
     }
   }
 }
