@@ -1,7 +1,7 @@
 # TRON-128LED
-This repository consists of a few files which I bundled together for αDMD (https://github.com/pinballpower/alpha_dmd) installations
+This repository consists of a few files which I bundled together for ([αDMD](https://github.com/pinballpower/alpha_dmd)) installations
 
-Configured only for TRON (Serum) 128x32 LED DMD
+Configured only for the ([TRON Serum](https://vpuniverse.com/files/file/14216-tron-legacy-stern-2011-dmd-64-colors-serum-format-v22-final/)) 128x32 LED DMD
 
 ## How to install?
 
