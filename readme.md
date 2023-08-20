@@ -13,6 +13,13 @@ git clone https://github.com/p69172002/tron-128led
 ## Configuring the files
 After having cloned the repository, you must change the '/home/yourusername/' paths in `start.sh` and `tron.json`
 
+## Enable the script
+```
+cd
+cd ~/code_dmdreader/tron-128led
+sudo chmod +x start.sh
+```
+
 ## Running the script
 ```
 cd
