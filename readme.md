@@ -3,8 +3,6 @@ This repository consists of a few files which I bundled together for αDMD insta
 
 Configured only for TRON (Serum) 128x32 LED DMD users
 
-Can also be used as a template
-
 ## How to install?
 
 ```
