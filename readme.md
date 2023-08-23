@@ -38,7 +38,7 @@ cd ~/code_dmd/src/
 ```
 NOTE: Your Raspberry needs to be powered and connected to the dmdreader board whilst trying to do this!
 
-## Why are my colors not correct?
+## Why are my colors incorrect?
 Another common issue is that the rgb_sequence can be different for your LED panel. 
 To fix this, go into the "tron.json" file and adjust the "rgb_sequence" accordingly.
 
