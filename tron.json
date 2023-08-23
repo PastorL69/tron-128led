@@ -20,7 +20,7 @@
     "ledmatrix": {
       "width": 128,
       "height": 32,
-      "rgb_sequence": "bgr"
+      "rgb_sequence": "rbg"
     }
   }
 }
