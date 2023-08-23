@@ -21,8 +21,9 @@ sudo chmod +x start.sh
 ```
 
 ## Run the script
+NOTE: Running with sudo is not possible right now, but will eventually get fixed in future versions of αDMD
 ```
 cd
 cd ~/code_dmdreader/tron-128led
-sudo ./start.sh
+./start.sh
 ```
