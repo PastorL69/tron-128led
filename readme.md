@@ -27,3 +27,11 @@ cd
 cd ~/code_dmdreader/tron-128led
 ./start.sh
 ```
+
+## Error when running the script?
+It is important to make sure the pico has been programmed. To do so, use the following commands:
+```
+cd
+cd ~/code_dmd/src/
+./program-pico.sh
+```
