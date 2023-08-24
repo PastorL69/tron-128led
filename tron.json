@@ -20,9 +20,7 @@
     "ledmatrix": {
       "width": 128,
       "height": 32,
-      "rgb_sequence": "rbg",
-      "scan_mode": 0,
-      "limit_refresh_rate": 400
+      "rgb_sequence": "rbg"
     }
   }
 }
