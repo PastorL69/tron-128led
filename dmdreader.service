@@ -1,0 +1,12 @@
+[Unit]
+Description=Initiate the DMDreader
+DefaultDependencies=no
+
+[Service]
+Type=simple
+Restart=always
+User=jan
+ExecStart=/home/jan/code_dmdreader/tron-128led/start.sh
+
+[Install]
+WantedBy=sysinit.target
