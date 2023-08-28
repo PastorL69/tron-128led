@@ -6,14 +6,15 @@
   "source": {
     "spi": {
       "device": "/dev/spidev0.0",
-      "speed": 4000000,
+      "speed": 8000000,
       "notify_gpio": 17
     }
   },
   "processor": {
     "serum": {
       "comment": "Make sure to change the path name after /home/ to your username", 
-      "file": "/home/jan/code_dmdreader/tron-128led/trn_174h.cRZ"
+      "file": "/home/jan/code_dmdreader/tron-128led/trn_174h.cRZ",
+      "bits_per_pixel": 4
     } 
   },
   "renderer": {
@@ -21,7 +22,8 @@
       "width": 128,
       "height": 32,
       "rgb_sequence": "rbg",
-      "brightness": 90
+      "brightness": 90,
+      "pwm_bits": 11
     }
   }
 }
