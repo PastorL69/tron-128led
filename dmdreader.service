@@ -9,4 +9,4 @@ User=jan
 ExecStart=/home/jan/code_dmdreader/tron-128led/start.sh
 
 [Install]
-WantedBy=sysinit.target
+WantedBy=basic.target
