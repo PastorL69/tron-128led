@@ -14,7 +14,7 @@
     "serum": {
       "comment": "Make sure to change the path name after /home/ to your username | look to disable logging", 
       "file": "/home/jan/code_dmdreader/tron-128led/trn_174h.cRZ",
-      "bits_per_pixel": 4
+      "bits_per_pixel": 3
     } 
   },
   "renderer": {
@@ -23,7 +23,7 @@
       "height": 32,
       "rgb_sequence": "rbg",
       "brightness": 90,
-      "pwm_bits": 11
+      "pwm_bits": 10
     }
   }
 }
