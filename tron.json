@@ -1,7 +1,7 @@
 {
   "general": {
     "cwd_to_configdir": true,
-    "log": ""
+    "log": "quiet"
   },
   "source": {
     "spi": {
@@ -14,7 +14,7 @@
     "serum": {
       "comment": "Make sure to change the path name after /home/ to your username | look to disable logging", 
       "file": "/home/jan/code_dmdreader/tron-128led/trn_174h.cRZ",
-      "bits_per_pixel": 3
+      "bits_per_pixel": 8
     } 
   },
   "renderer": {
