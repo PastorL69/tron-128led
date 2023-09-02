@@ -21,7 +21,8 @@
       "width": 128,
       "height": 32,
       "rgb_sequence": "rbg",
-      "brightness": 75
+      "brightness": 75,
+      "pwm_bits": 9
     }
   }
 }
