@@ -1,6 +1,6 @@
 [Unit]
 Description=Initiate the DMDreader
-DefaultDependencies=no
+DefaultDependencies=false
 
 [Service]
 Restart=always
