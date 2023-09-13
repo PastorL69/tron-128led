@@ -22,7 +22,7 @@
       "height": 32,
       "rgb_sequence": "rbg",
       "brightness": 70,
-      "pwm_bits": 9
+      "pwm_bits": 10
     }
   }
 }
