@@ -12,7 +12,7 @@
   },
   "processor": {
     "serum": {
-      "file": "/boot/trn_174h.cRZ",
+      "file": "/home/jan/code_dmdreader/tron-128led/trn_174h.cRZ",
       "bits_per_pixel": 4
     } 
   },
@@ -22,7 +22,7 @@
       "height": 32,
       "rgb_sequence": "rbg",
       "brightness": 70,
-      "pwm_bits": 10
+      "pwm_bits": 9
     }
   }
 }
